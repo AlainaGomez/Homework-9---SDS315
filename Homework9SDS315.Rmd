@@ -27,6 +27,8 @@ solder <- read.csv("/Users/alainagomez/Desktop/solder.csv")
 
 # Problem 1
 
+[**Link to Github for Part A**](https://github.com/AlainaGomez/Homework-9---SDS315)
+
 ## Part A
 
 ```{r, echo = FALSE}
